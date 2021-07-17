@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I’m currently working on absolutely nothing
+🌱 I’m currently learning C
+😄 Pronouns: not/snowflake
+
+
 [![if you see this, it probably means something is not working](https://github-readme-stats.vercel.app/api?username=6nx&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
