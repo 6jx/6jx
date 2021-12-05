@@ -4,8 +4,6 @@ I code simple tools out of necessity. Most small scripts/tools on my Github are 
 
 I primarily use this Github for private projects.
 
-Contact Email: nine-t-eight@protonmail.ch
-
 <!--
 
 Here are some ideas to get you started:
